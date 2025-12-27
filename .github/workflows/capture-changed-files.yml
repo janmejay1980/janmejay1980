@@ -4,7 +4,7 @@ on:
   pull_request:
     types: [closed]
     branches:
-      - "projectA"
+      - "project/dev"
       - "project/qa"
       - "project/prod"
       - "master"
